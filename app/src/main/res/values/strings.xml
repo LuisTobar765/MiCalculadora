@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiCalculadora</string>
+    <string name="historial_de_operaciones">Historial de operaciones</string>
+</resources>
